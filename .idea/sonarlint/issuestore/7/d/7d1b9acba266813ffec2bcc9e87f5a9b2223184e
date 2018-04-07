@@ -1,0 +1,15 @@
+
+Bsquid:S1481"(Remove this unused "bd3" local variable.(á×Ïžÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’šÉ—8ÀŠ†ø©,
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡ªÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8êàºø©,
+Jsquid:S2200"/Only the sign of the result should be examined.(ÓÏ³:8ØŽ¡ø©,
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼‰žýÿÿÿÿ
+Qsquid:S1854"7Remove this useless assignment to local variable "bd3".(á×Ïžÿÿÿÿÿ
+Osquid:S2204":Use ".get()" to retrieve the value and compare it instead.(È¨žâ
+Lsquid:S1854"7Remove this useless assignment to local variable "bd4".(‹‚·
+=squid:S1481"(Remove this unused "bd4" local variable.(‹‚·
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8‡¼ø©,

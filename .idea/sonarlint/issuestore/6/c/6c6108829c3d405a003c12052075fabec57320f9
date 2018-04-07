@@ -1,0 +1,7 @@
+
+dsquid:S1192"JDefine a constant instead of duplicating this literal "SomeValue" 3 times.(³‘°˜ýÿÿÿÿ
+Esquid:S1481"*Remove this unused "value" local variable.(ùžû8˜£Àø©,
+Ÿsquid:S1862"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(Ïžôñÿÿÿÿÿ
+bsquid:UnusedPrivateMethod":Remove this unused private "executeSomeConditions" method.(é£¬ºùÿÿÿÿ
+msquid:UnusedPrivateMethod"ERemove this unused private "incorrectAssignmentInIfCondition" method.(ñœÂµûÿÿÿÿ
+usquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÙÎüÎþÿÿÿÿ
